@@ -1,0 +1,96 @@
+import kotlin.math.*
+
+fun main() {
+
+/*
+    var a : Int = 10
+    var b : Char = 'b'
+    var c : Double = 10.5
+    var d : Float = 10.0F
+    var e : Boolean = true;
+    var f : String = "Привет"
+    println("Целочисленный тип данных: $a" + "\n"
+            + "Символьный тип даннных: $b" + "\n"
+            + "Числа с плавающей точкой: $c, $d" + "\n"
+            + "Логический тип данных: $e" + "\n"
+            + "Строковый тип данных: $f")
+*/
+
+    
+   
+    
+   
+   
+    
+
+ /*2 работа с операциями вычисления*/
+
+
+/*
+    var a1= 2
+    var b1 = 5
+    print("Сумма чисел равна: ")
+    println(a1 + b1)
+
+    var a2 = 5
+    var b2 = 2
+    print("Разность чисел равна: ")
+    println(a2 - b2)
+
+    var a3 = 5
+    var b3 = 2
+    print("Произведение чисел равнo: ")
+    println(a3 * b3)
+    
+    var a4 = 10
+    var b4 = 2
+    print("Результат деления чисел равен: ")
+    println(a4 / b4)
+    
+    var a5 = 6
+    var b5 = 2
+    print("Возведение в степень чисел a и b равно: ")
+    println(a5.toFloat().pow(2))
+    println(b5.toFloat().pow(2))
+*/
+
+
+
+
+
+/*3 двумерный массив*/
+/*
+
+    println("Введите количество строк")
+    var x = readLine()!!.toInt()
+    println("Введите количество столбцов")
+    var y = readLine()!!.toInt()
+    var mas: Array<Array<Int>> = Array(x,{Array(y,{2})})
+    
+    for(str in mas)
+    {
+        for(stb in str)
+        {
+            print("$stb \t")
+        }
+        println()
+    }
+    
+*/    
+/*4 задание*/
+    /*
+    var i = 2
+    do
+    {
+        println(i*i)
+        i++;
+    }
+    while(i <= 5)
+    */
+
+/*5 задание*/
+
+    var s: String = "12313"
+    var d: Int = s.toInt()
+    println(d)
+}    
